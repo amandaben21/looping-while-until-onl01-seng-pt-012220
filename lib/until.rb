@@ -1,5 +1,4 @@
-def levitation_force
-until levitation_force == 10 do
+until levitation_force == 10 
 	puts"Wingardium Leviosa"
 levitation_force +=1
 end
